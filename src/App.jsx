@@ -9,19 +9,19 @@ function App() {
     {
       id: 1,
       title: "Estudar programação",
-      description: "Estudar programação para setornar um programador fullstack",
+      description: "Estudar programação para se tornar um programador full stack.",
       isCompleted: false
     },
     {
       id: 2,
-      title: "Inglês",
+      title: "Estudar Inglês",
       description: "Estudar até atingir a fluência",
       isCompleted: false
     },
     {
       id: 3,
-      title: "Linux",
-      description: "Estudar linux até ficar especialista",
+      title: "Estudar UX/UI",
+      description: "Estudar UX/UI para desenvolver aplicativos modernos e intuitivos",
       isCompleted: false
     },
   ]);
